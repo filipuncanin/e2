@@ -1,0 +1,14 @@
+{
+	"id": "light_bulb_1",
+	"group": "bulb",
+	"ContactService":
+	{
+		"State": "T/F"
+	},
+	"LightService":
+	{
+		"DimLevel": "0-100",
+		"State": "ON/OFF",
+		"Color": "RGB/HS"
+	}
+}
